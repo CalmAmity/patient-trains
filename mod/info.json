@@ -1,0 +1,11 @@
+{
+    "name": "PatientTrains",
+    "version": "0.0.1",
+    "title": "Patient Trains",
+    "author": "CalmAmity",
+    "contact": "",
+    "homepage": "https://github.com/CalmAmity/patient-trains",
+    "factorio_version": "0.17",
+    "dependencies": ["base >= 0.17"],
+    "description": "Modifies train behaviour to wait at the current stop if the next stop is disabled."
+}
